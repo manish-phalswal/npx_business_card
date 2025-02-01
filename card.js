@@ -44,10 +44,10 @@ const questions = [
                     }).start();
             
                     // Correct URL for Google Docs PDF export
-                    const pdfUrl = 'https://docs.google.com/document/d/10wEtsX-oBFHrXDUo1vc1ROPcD1AyD6Yo9s8hUg7x-N0/export?format=pdf';
+                    const pdfUrl = 'Your_Resume_URL';
                     
                     // Set the correct filename
-                    const filePath = path.join(process.cwd(), 'Resume-Manish.pdf');
+                    const filePath = path.join(process.cwd(), 'Downloaded_file.pdf');
                     
                     // Make the request and save as PDF
                     let pipe = request({ url: pdfUrl, headers: { 'User-Agent': 'Mozilla/5.0' } })
