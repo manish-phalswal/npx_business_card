@@ -7,13 +7,13 @@ npx manish_kumar
 ```
 And get to know me in unique style.
 
-### I spent a non-trivial amount of effort building and designing this iteration of npx card, and I am proud of it! All I ask of you all is to put a **star** ⭐ on this project and not claim this effort as your own ♥.
+**A significant amount of time and effort went into building and designing this iteration of the npx card, and I'm truly proud of the result! All I ask in return is for you to give this project a star ⭐ and refrain from claiming this work as your own. Thank you! ♥**
 
 ### SCREENSHOT
 
 The final output might look something like this:
 
-![image](https://github.com/anmol098/npx_card/blob/master/demo.gif)
+![image](https://github.com/manish-phalswal/npx_business_card/blob/main/demo.gif)
 
 
 <hr/>
