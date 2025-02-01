@@ -21,3 +21,8 @@ The final output might look something like this:
 ##### STEPS TO CREATE YOUR OWN
 The article written by our friend @jackboberg. I used the same for the reference to deploy the package. 
 [Write a Simple npx Business Card](https://studioelsa.se/blog/open-source-oss-npx-business-card). 
+
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=manish-phalswal.npx_business_card" alt="visitor badge"/>
+</p>
