@@ -1,6 +1,6 @@
 {
   "name": "manish_kumar",
-  "version": "4.0.18",
+  "version": "4.0.19",
   "description": "A personal card for Manish Kumar",
   "main": "card.js",
   "bin": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manish-phalswal/npx_card.git"
+    "url": "git+https://github.com/manish-phalswal/npx_business_card.git"
   },
   "scripts": {
     "test": "node card.js",

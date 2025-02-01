@@ -22,13 +22,6 @@ const questions = [
         name: "action",
         message: "What you want to do?",
         choices: [
-            // {
-            //     name: `Send me an ${chalk.green.bold("email")}?`,
-            //     value: () => {
-            //         open("mailto:manishphalswal@gmail.com");
-            //         console.log("\nDone, see you soon at inbox.\n");
-            //     }
-            // },
             {
                 name: `Send me an ${chalk.green.bold("email")}?`,
                 value: () => {
@@ -72,13 +65,7 @@ const questions = [
                     });
                 }
             },
-            // {
-            //     name: `Schedule a ${chalk.redBright.bold("Meeting")}?`,
-            //     value: () => {
-            //         open('https://calendly.com/anmol098/30min');
-            //         console.log("\n See you at the meeting \n");
-            //     }
-            // },
+
             {
                 name: "Just quit.",
                 value: () => {
